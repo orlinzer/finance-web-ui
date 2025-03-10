@@ -1,0 +1,4 @@
+title: finance
+paragraph: text for finance system
+
+placeholder to a list to resorses to be accessed later
